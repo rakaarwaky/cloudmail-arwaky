@@ -1,8 +1,8 @@
-# Cloud Mail Flare — Design Concept
+# Cloudmail Arwaky — Design Concept
 
 ## Vision
 
-Cloud Mail Flare is built with a clear purpose: to provide email infrastructure that is always available, operated by both humans and AI agents. The visual design reflects this purpose through clarity, stability, and calm.
+Cloudmail Arwaky is built with a clear purpose: to provide email infrastructure that is always available, operated by both humans and AI agents. The visual design reflects this purpose through clarity, stability, and calm.
 
 ## Visual Direction
 
@@ -81,6 +81,6 @@ The design philosophy is minimal and functional:
 
 ## Result
 
-Cloud Mail Flare presents itself as professional infrastructure. The visual design supports serious work without distraction. Users can operate for hours without fatigue, understand system status immediately, and trust that the interface will not interfere with their tasks.
+Cloudmail Arwaky presents itself as professional infrastructure. The visual design supports serious work without distraction. Users can operate for hours without fatigue, understand system status immediately, and trust that the interface will not interfere with their tasks.
 
 This is the purpose of the design: to disappear so the work can proceed.

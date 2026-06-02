@@ -4,7 +4,7 @@ description: Email management platform — create users, manage inbox, configure
 version: 0.1.0
 ---
 
-# CloudMailFlare
+# CloudmailArwaky
 
 Email management platform built on Cloudflare Workers. Manages virtual email users, inbox, worker settings, and API keys.
 

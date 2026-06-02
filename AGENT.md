@@ -1,4 +1,4 @@
-# AGENT.md — Cloud Mail Flare AES
+# AGENT.md — Cloudmail Arwaky AES
 
 ## Source of Truth
 PRD.md — primary reference for features, scope, and priorities.

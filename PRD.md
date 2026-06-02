@@ -1,4 +1,4 @@
-# Cloud Mail Flare AES — Product Requirements Document
+# Cloudmail Arwaky AES — Product Requirements Document
 
 ## Vision
 Email-as-a-Service running 100% on Cloudflare free tier, built for AI agents.
@@ -7,7 +7,7 @@ API keys automatically. Zero human intervention. Zero cost.
 
 ## Problem Statement
 AI agents need many email addresses to sign up for services (OpenRouter, etc.).
-Manual email creation doesn't scale. Cloud Mail Flare provides an API-first
+Manual email creation doesn't scale. Cloudmail Arwaky provides an API-first
 approach: agent creates inbox → receives verification → extracts API key → repeat.
 
 ## Target Users

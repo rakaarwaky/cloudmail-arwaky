@@ -1,4 +1,4 @@
-// Exploratory tests for Cloud Mail Flare
+// Exploratory tests for Cloudmail Arwaky
 // These tests are for experimentation and learning about the system
 // They are not run as part of the main test suite
 

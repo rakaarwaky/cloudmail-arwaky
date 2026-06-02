@@ -1,4 +1,4 @@
-# CloudMailFlare AES
+# CloudmailArwaky AES
 
 Email management platform built on Cloudflare Workers. Create virtual email users, manage inbox, configure worker settings, and expose capabilities via API, CLI, MCP, and Web.
 
