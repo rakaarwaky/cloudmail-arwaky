@@ -41,7 +41,7 @@ Email management platform built on Cloudflare Workers. Create virtual email user
 ```bash
 # Clone
 git clone <repo-url>
-cd cloud-mail-flare-aes
+cd cloudmail-arwaky-aes
 
 # Install dependencies
 pnpm install
@@ -129,10 +129,10 @@ pnpm run mcp:dev
 ```yaml
 # config.yaml
 mcp_servers:
-  cloud-mail-flare:
+  cloudmail-arwaky:
     command: npx
     args: ["tsx", "src/surfaces/mcp/mcp_tools_entry.ts"]
-    cwd: /path/to/cloud-mail-flare-aes
+    cwd: /path/to/cloudmail-arwaky-aes
 ```
 
 **5 MCP Tools:**
@@ -207,7 +207,7 @@ pnpm run deploy
 
 ## Project Structure
 
-cloud-mail-flare-aes/
+cloudmail-arwaky-aes/
 ├── SKILL.md                    # MCP documentation
 ├── README.md                   # This file
 ├── package.json                # Scripts + dependencies

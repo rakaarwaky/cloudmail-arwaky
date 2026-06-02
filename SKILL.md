@@ -1,5 +1,5 @@
 ---
-name: cloud-mail-flare
+name: cloudmail-arwaky
 description: Email management platform — create users, manage inbox, configure worker, API keys
 version: 0.1.0
 ---

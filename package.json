@@ -1,5 +1,5 @@
 {
-  "name": "arwaky-mail",
+  "name": "cloudmail-arwaky",
   "version": "1.0.4",
   "type": "module",
   "workspaces": [
@@ -60,5 +60,6 @@
     "postal-mime": "^2.7.4",
     "vite": "^8.0.10",
     "zod": "^3.23.8"
-  }
+  },
+  "author": "rakaarwaky <arwaky90@gmail.com>"
 }

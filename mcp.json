@@ -1,9 +1,9 @@
 {
   "mcpServers": {
-    "cloud-mail-flare": {
+    "cloudmail-arwaky": {
       "command": "node",
       "args": [
-        "/home/raka/mcp-servers/cloud-mail-flare/mcp_server.js"
+        "/home/raka/mcp-arwaky/cloudmail-arwaky/mcp_server.js"
       ]
     }
   }
